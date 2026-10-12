@@ -42,7 +42,7 @@ The dataset is a Excel file containing 2,000 customer records,including customer
 ## Dashboard
 
 The Power BI dashboard provides an interactive view of:
-![Customer Churn Dashboard](Screenshots/Dashboard.jpg)
+![Customer Churn Dashboard](Screenshots/Dashboard.png)
 
 - Total Customers
 - Churned Customers
